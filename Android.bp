@@ -4984,7 +4984,6 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "libmmosal_vendor",
-                "libmm-hdcpmgr",
                 "liblog",
                 "libutils",
                 "libcutils",
