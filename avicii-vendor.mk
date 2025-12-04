@@ -657,15 +657,21 @@ PRODUCT_PACKAGES += \
     libadm \
     libaudcal \
     libaudio_log_utils \
+    libaudioconfigstore \
     libaudioparsers \
+    libbatterylistener \
     libcapiv2svacnn \
     libcapiv2vop \
+    libcomprcapture \
+    libexthwplugin \
     libfastcrc \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
+    libhdmiedid \
     libhdmipassthru \
+    libhfp \
     liblistensoundmodel2 \
     libmm-hdcpmgr \
     libmmrtpdecoder_proprietary \
@@ -678,6 +684,8 @@ PRODUCT_PACKAGES += \
     libqcodec2_utils \
     libqcodec2_v4l2codec \
     libqtigef \
+    libsndmonitor \
+    libspkrprot \
     libssrec \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
