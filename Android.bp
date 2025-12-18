@@ -18286,7 +18286,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libsnpe_dsp_v66_domains_v2_skel",
+    name: "libsnpe_dsp_v66_domains_v2_skel_vendor",
     filename: "libsnpe_dsp_v66_domains_v2_skel.so",
     owner: "oneplus",
     src: "proprietary/vendor/lib/rfsa/adsp/libsnpe_dsp_v66_domains_v2_skel.so",
@@ -18973,7 +18973,6 @@ cc_prebuilt_library_shared {
     },
     compile_multilib: "64",
     prefer: true,
-    check_elf_files: false,
     system_ext_specific: true,
 }
 
